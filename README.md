@@ -29,7 +29,7 @@ trimmed flight behavior.
 The controller stabilizes the aircraft and regulates angle of attack with limited overshoot
 and finite settling time. Actuator saturation introduces realistic transient behavior.
 
-![Longitudinal Response](figures/longitudinal_response.png)
+![Longitudinal Response](figures/Figure_1.png)
 
 ## Future Improvements
 - Nonlinear aerodynamics and stall modeling
